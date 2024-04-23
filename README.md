@@ -10,7 +10,7 @@ In this project, I built a Github repository from scratch and created a scaffold
 ## Instructions
 
 
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram 
 ![diagram](diagram.png)
 
 Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
@@ -29,7 +29,7 @@ Instructions for running the Python project.  How could a user with no context r
 * Project cloned into Azure Cloud Shell
 ![cloned](cloned.png)
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-!(make)[makeallshot.png)
+![make](makeallshot.png)
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
