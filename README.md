@@ -1,6 +1,6 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+In this project, I built a Github repository from scratch and created a scaffolding that assisted me in performing both Continuous Integration and Continuous Delivery. I used Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Next, I integrated this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Project Plan
 
