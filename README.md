@@ -12,7 +12,17 @@ In this project, I built a Github repository from scratch and created a scaffold
 
 * Architectural Diagram (Shows how key parts of the system work)>
 ![diagram](diagram.png)
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+
+Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+
+1. Login in your Azure account
+2. From the Azure Console, open the Cloud Shell (Bash) terminal
+3. Generate and set up SSH Keys in your azure cloud shell, add them (id_rsa.pub) to your GitHub repository and then clone the project there.
+  ssh-keygen -t rsa
+  cat ~/.ssh/id_rsa.pub
+  git clone <repository>
+   
+
 
 * Project running on Azure App Service
 
