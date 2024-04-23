@@ -25,9 +25,9 @@ Instructions for running the Python project.  How could a user with no context r
 
 
 * Project running on Azure App Service
-
+[appservices](appservices.png]
 * Project cloned into Azure Cloud Shell
-
+[cloned](cloned.png)
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
