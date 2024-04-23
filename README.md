@@ -29,7 +29,7 @@ Instructions for running the Python project.  How could a user with no context r
 * Project cloned into Azure Cloud Shell
 ![cloned](cloned.png)
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-
+!(make)[makeallshot.png)
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
