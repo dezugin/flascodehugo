@@ -14,6 +14,6 @@ steps:
     pip install -r requirements.txt
   displayName: 'Install dependencies'
 - script: |
-    pylint --disable=R,C,W1203,W0702 app.py
+    /home/devopsagent/.local/bin/pylint --disable=R,C,W1203,W0702 app.py
   displayName: 'lint'
   
