@@ -4,8 +4,8 @@ In this project, I built a Github repository from scratch and created a scaffold
 
 ## Project Plan
 
-* A link to a [Trello](https://trello.com/b/nQ1YXymx/project-management) board for the project
-* A link to a [spreadsheet](https://docs.google.com/spreadsheets/d/1FH4DlHbekuHPKbjYGb84ZCZzjj-oKbDDoqqklHm8JzY/edit#gid=1348135932) that includes the original and final project plan>
+* A link to a [Trello](https://trello.com/invite/b/nQ1YXymx/ATTIf919d539bd4a48573232b7e7e532c87459298484/project-management) board for the project
+* A link to a [spreadsheet](https://docs.google.com/spreadsheets/d/1FH4DlHbekuHPKbjYGb84ZCZzjj-oKbDDoqqklHm8JzY/edit?usp=sharing) that includes the original and final project plan>
 
 ## Instructions
 
