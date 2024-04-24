@@ -80,7 +80,17 @@ More emphasis should be given to debugging applications through log files, after
 
 
 ## Screenshot of App Services
+
 ![img8](img/ssappservices.png)
+
+## Screenshot of Azure Pipelines
+
+![img7](img/sspipeline.png)
+
+![img7](img/sspipeline2.png)
+
+![img7](img/sspipeline3.png)
+
 ## Demo 
 
 A link to a [Screencast](https://www.youtube.com/watch?v=E4mO23dOGpE) on YouTube!
