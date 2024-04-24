@@ -48,7 +48,10 @@ Run `./commands.sh` and change the app name for your own
 
 * Successful deploy of the project in Azure Pipelines and running it.
 
+Screenshot of azure pipelines:
+
 ![pipeline](img/pipeline.png)
+
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 
