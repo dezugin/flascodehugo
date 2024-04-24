@@ -31,7 +31,7 @@ Instructions for running the Python project.  How could a user with no context r
 Run `./commands.sh` and change the app name for your own
 
 ![cont](img/flascowebapp.png)
-
+![cont](img/flasco2.png)
 ![cont](img/continuous.png)
 
 ![appservices](img/appservices.png)
