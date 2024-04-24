@@ -75,6 +75,9 @@ More emphasis should be given to debugging applications through log files, after
 
 ![img7](img/locust6.png)
 
+
+## Screenshot of App Services
+![img8](img/ssappservices.png)
 ## Demo 
 
 A link to a [Screencast](https://www.youtube.com/watch?v=E4mO23dOGpE) on YouTube!
