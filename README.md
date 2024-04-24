@@ -52,6 +52,19 @@ Instructions for running the Python project.  How could a user with no context r
 ## Enhancements
 
 More emphasis should be given to debugging applications through log files, after I started doing it I took minutes on what took hours before.
+## Locust testing
+- Execute a Load Testing, running Locust with `./locust.sh`.
+![img2](locust1.png)
+
+![img3](locust2.png)
+
+![img4](locust3.png)
+
+![img5](locust4.png)
+
+![img6](locust5.png)
+
+![img7](locust6.png)
 
 ## Demo 
 
