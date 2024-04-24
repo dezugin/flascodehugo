@@ -13,7 +13,7 @@ In this project, I built a Github repository from scratch and created a scaffold
 
 
 * Architectural Diagram 
-![diagram](diagram.png)
+![diagram](img/diagram.png)
 
 Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
@@ -28,43 +28,48 @@ Instructions for running the Python project.  How could a user with no context r
 
 * Project running on Azure App Service
 
-![cont](continuous.png)
+![cont](img/continuous.png)
 
-![appservices](appservices.png)
+![appservices](img/appservices.png)
 
 * Project cloned into Azure Cloud Shell
-![cloned](cloned.png)
+
+![cloned](img/cloned.png)
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile` with a test run
-![make](makeallshot.png)
+![make](img/make1.png)
+![make](img/make2.png)
+![make](img/make3.png)
+![make](img/make4.png)
 
 * Successful deploy of the project in Azure Pipelines and running it.
 
-![pipeline](pipeline.png)
+![pipeline](img/pipeline.png)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 
-![prediction](prediction.png)
+![prediction](img/prediction.png)
 
 * Output of streamed log files from deployed application
 
-![log](logfiles.png)
+![log](img/logfiles.png)
 
 ## Enhancements
 
 More emphasis should be given to debugging applications through log files, after I started doing it I took minutes on what took hours before.
 ## Locust testing
 - Execute a Load Testing, running Locust with `./locust.sh`.
-![img2](locust1.png)
+![img2](img/locust1.png)
 
-![img3](locust2.png)
+![img3](img/locust2.png)
 
-![img4](locust3.png)
+![img4](img/locust3.png)
 
-![img5](locust4.png)
+![img5](img/locust4.png)
 
-![img6](locust5.png)
+![img6](img/locust5.png)
 
-![img7](locust6.png)
+![img7](img/locust6.png)
 
 ## Demo 
 
