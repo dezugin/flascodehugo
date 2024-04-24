@@ -1,3 +1,5 @@
+## Actions Badge
+
 ![img](https://dev.azure.com/odluser258277/udacity/_apis/build/status%2Fdezugin.flascodehugo?branchName=master)
 
 # Overview
