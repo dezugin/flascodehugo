@@ -20,13 +20,15 @@ Instructions for running the Python project.  How could a user with no context r
 1. Login in your Azure account
 2. From the Azure Console, open the Cloud Shell (Bash) terminal
 3. Generate and set up SSH Keys in your azure cloud shell, add them (id_rsa.pub) to your GitHub repository and then clone the project there.
-  ssh-keygen -t rsa
-  cat ~/.ssh/id_rsa.pub
-  git clone <repository>
+  - `ssh-keygen -t rsa`
+  - `cat ~/.ssh/id_rsa.pub`
+  - `git clone <repository>`
    
 
 
 * Project running on Azure App Service
+
+Run `./commands.sh` and change the app name for your own
 
 ![cont](img/continuous.png)
 
